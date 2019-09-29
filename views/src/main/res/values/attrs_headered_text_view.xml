@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="HeaderedTextView">
+        <attr name="header" format="reference|string" />
+        <attr name="text" format="reference|string" />
+        <attr name="hide_if_null_or_empty" format="boolean" />
+    </declare-styleable>
+</resources>
